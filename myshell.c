@@ -88,7 +88,7 @@ int main(int argc, char *argv[]){
  
 	if (strcmp(command, "cd") == 0 || strcmp(command, "cd\n") == 0){
     
-		// Input cd : change the directory
+	// Input cd : change the directory
     	// Interpretation: changeDir(args, cwd);
 
     	// If there is no input, state the current directory
